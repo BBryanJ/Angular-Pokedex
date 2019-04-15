@@ -1,3 +1,12 @@
-<p>
-  Pokedex component works!
-</p>
+<ul>
+  <li *ngFor="let pokemon of pokemonList">
+    <h3>{{ pokemon.dexNumber | number: '3.0' }}: {{ pokemon.name }}</h3>
+    <ol>
+      <li *ngFor="let type of pokemon.type">
+        {{ type }}
+      </li>
+    </ol>
+    <p>{{ pokemon.height }}</p>
+    <p>{{ pokemon.weight }}</p>
+  </li>
+</ul>

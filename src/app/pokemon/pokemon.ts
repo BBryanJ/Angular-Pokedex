@@ -1,7 +1,7 @@
 export interface Pokemon {
-  id: Number;
+  dexNumber: Number;
   name: String;
-  typing: String[];
+  type: String[];
   height: Number;
   weight: Number;
 }
