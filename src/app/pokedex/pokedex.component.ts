@@ -9,9 +9,11 @@ import { Pokemon } from '../pokemon/pokemon';
   styleUrls: ['./pokedex.component.scss']
 })
 export class PokedexComponent implements OnInit {
-  pokemonList: Pokemon[] = pokemon.pokemon;
+  pokemonList: Pokemon[];
 
-  constructor() {}
+  constructor() {
+    this.pokemonList = pokemon.pokemon;
+  }
 
   ngOnInit() {}
 }

@@ -1,12 +1,27 @@
-<ul>
-  <li *ngFor="let pokemon of pokemonList">
-    <h3>{{ pokemon.dexNumber | number: '3.0' }}: {{ pokemon.name }}</h3>
-    <ol>
-      <li *ngFor="let type of pokemon.type">
-        {{ type }}
-      </li>
-    </ol>
-    <p>{{ pokemon.height }}</p>
-    <p>{{ pokemon.weight }}</p>
-  </li>
-</ul>
+<table>
+  <tr>
+    <th>ND#</th>
+    <th>Sprite</th>
+    <th>Name</th>
+    <th colspan="2">Type</th>
+    <th>Height</th>
+    <th>Weight</th>
+  </tr>
+  <tr *ngFor="let pokemon of pokemonList">
+    <td>{{ pokemon.dexNumber | number: '3.0' }}</td>
+    <td></td>
+    <td>{{ pokemon.name }}</td>
+    <ng-container
+      *ngIf="pokemon.type.length == 2; then duelType; else singleType"
+    ></ng-container>
+    <ng-template #duelType>
+      <td>{{ pokemon.type[0] }}</td>
+      <td>{{ pokemon.type[1] }}</td>
+    </ng-template>
+    <ng-template #singleType>
+      <td colspan="2">{{ pokemon.type[0] }}</td>
+    </ng-template>
+    <td>{{ pokemon.height }}</td>
+    <td>{{ pokemon.weight }}</td>
+  </tr>
+</table>
