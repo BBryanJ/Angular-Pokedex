@@ -9,7 +9,14 @@
   </tr>
   <tr *ngFor="let pokemon of pokemonList">
     <td>{{ pokemon.dexNumber | number: '3.0' }}</td>
-    <td></td>
+    <td>
+      <img
+        src="http://www.pokestadium.com/assets/img/sprites/misc/icons/{{
+          pokemon.name | lowercase
+        }}.png"
+        alt="{{ pokemon.name }} sprite"
+      />
+    </td>
     <td>{{ pokemon.name }}</td>
     <ng-container
       *ngIf="pokemon.type.length == 2; then duelType; else singleType"
