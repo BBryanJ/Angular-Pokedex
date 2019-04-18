@@ -4,4 +4,5 @@ export interface Pokemon {
   type: string[];
   height: number;
   weight: number;
+  imageName: string;
 }

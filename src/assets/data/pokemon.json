@@ -8,7 +8,8 @@
         "Poison"
       ],
       "height": 28,
-      "weight": 15.2
+      "weight": 15.2,
+      "imageName": "bulbasaur"
     },
     {
       "dexNumber": 2,
@@ -18,7 +19,8 @@
         "Poison"
       ],
       "height": 39,
-      "weight": 28.7
+      "weight": 28.7,
+      "imageName": "ivysaur"
     },
     {
       "dexNumber": 3,
@@ -28,7 +30,8 @@
         "Poison"
       ],
       "height": 79,
-      "weight": 220.5
+      "weight": 220.5,
+      "imageName": "venusaur"
     },
     {
       "dexNumber": 4,
@@ -37,7 +40,8 @@
         "Fire"
       ],
       "height": 24,
-      "weight": 18.7
+      "weight": 18.7,
+      "imageName": "charmander"
     },
     {
       "dexNumber": 5,
@@ -46,7 +50,8 @@
         "Fire"
       ],
       "height": 43,
-      "weight": 41.9
+      "weight": 41.9,
+      "imageName": "charmeleon"
     },
     {
       "dexNumber": 6,
@@ -56,7 +61,8 @@
         "Flying"
       ],
       "height": 67,
-      "weight": 199.5
+      "weight": 199.5,
+      "imageName": "charizard"
     },
     {
       "dexNumber": 7,
@@ -65,7 +71,8 @@
         "Water"
       ],
       "height": 20,
-      "weight": 19.8
+      "weight": 19.8,
+      "imageName": "squirtle"
     },
     {
       "dexNumber": 8,
@@ -74,7 +81,8 @@
         "Water"
       ],
       "height": 39,
-      "weight": 49.6
+      "weight": 49.6,
+      "imageName": "wartortle"
     },
     {
       "dexNumber": 9,
@@ -83,7 +91,8 @@
         "Water"
       ],
       "height": 63,
-      "weight": 188.5
+      "weight": 188.5,
+      "imageName": "blastoise"
     },
     {
       "dexNumber": 10,
@@ -92,7 +101,8 @@
         "Bug"
       ],
       "height": 12,
-      "weight": 6.4
+      "weight": 6.4,
+      "imageName": "caterpie"
     },
     {
       "dexNumber": 11,
@@ -101,7 +111,8 @@
         "Bug"
       ],
       "height": 28,
-      "weight": 21.8
+      "weight": 21.8,
+      "imageName": "metapod"
     },
     {
       "dexNumber": 12,
@@ -111,7 +122,8 @@
         "Flying"
       ],
       "height": 43,
-      "weight": 70.5
+      "weight": 70.5,
+      "imageName": "butterfree"
     },
     {
       "dexNumber": 13,
@@ -121,7 +133,8 @@
         "Poison"
       ],
       "height": 12,
-      "weight": 7.1
+      "weight": 7.1,
+      "imageName": "weedle"
     },
     {
       "dexNumber": 14,
@@ -131,7 +144,8 @@
         "Poison"
       ],
       "height": 24,
-      "weight": 22
+      "weight": 22,
+      "imageName": "kakuna"
     },
     {
       "dexNumber": 15,
@@ -141,7 +155,8 @@
         "Poison"
       ],
       "height": 39,
-      "weight": 65
+      "weight": 65,
+      "imageName": "beedrill"
     },
     {
       "dexNumber": 16,
@@ -151,7 +166,8 @@
         "Flying"
       ],
       "height": 12,
-      "weight": 4
+      "weight": 4,
+      "imageName": "pidgey"
     },
     {
       "dexNumber": 17,
@@ -161,7 +177,8 @@
         "Flying"
       ],
       "height": 43,
-      "weight": 66.1
+      "weight": 66.1,
+      "imageName": "pidgeotto"
     },
     {
       "dexNumber": 18,
@@ -171,7 +188,8 @@
         "Flying"
       ],
       "height": 59,
-      "weight": 87.1
+      "weight": 87.1,
+      "imageName": "pidgeot"
     },
     {
       "dexNumber": 19,
@@ -180,7 +198,8 @@
         "Normal"
       ],
       "height": 12,
-      "weight": 7.7
+      "weight": 7.7,
+      "imageName": "rattata"
     },
     {
       "dexNumber": 20,
@@ -189,7 +208,8 @@
         "Normal"
       ],
       "height": 28,
-      "weight": 40.8
+      "weight": 40.8,
+      "imageName": "raticate"
     },
     {
       "dexNumber": 21,
@@ -199,7 +219,8 @@
         "Flying"
       ],
       "height": 12,
-      "weight": 4.4
+      "weight": 4.4,
+      "imageName": "spearow"
     },
     {
       "dexNumber": 22,
@@ -209,7 +230,8 @@
         "Flying"
       ],
       "height": 47,
-      "weight": 83.8
+      "weight": 83.8,
+      "imageName": "fearow"
     },
     {
       "dexNumber": 23,
@@ -218,7 +240,8 @@
         "Poison"
       ],
       "height": 79,
-      "weight": 15.2
+      "weight": 15.2,
+      "imageName": "ekans"
     },
     {
       "dexNumber": 24,
@@ -227,7 +250,8 @@
         "Poison"
       ],
       "height": 138,
-      "weight": 143.3
+      "weight": 143.3,
+      "imageName": "arbok"
     },
     {
       "dexNumber": 25,
@@ -236,7 +260,8 @@
         "Electric"
       ],
       "height": 16,
-      "weight": 13.2
+      "weight": 13.2,
+      "imageName": "pikachu"
     },
     {
       "dexNumber": 26,
@@ -245,7 +270,8 @@
         "Electric"
       ],
       "height": 31,
-      "weight": 66.1
+      "weight": 66.1,
+      "imageName": "raichu"
     },
     {
       "dexNumber": 27,
@@ -254,7 +280,8 @@
         "Ground"
       ],
       "height": 24,
-      "weight": 26.5
+      "weight": 26.5,
+      "imageName": "sandshrew"
     },
     {
       "dexNumber": 28,
@@ -263,16 +290,18 @@
         "Ground"
       ],
       "height": 39,
-      "weight": 65
+      "weight": 65,
+      "imageName": "sandslash"
     },
     {
       "dexNumber": 29,
-      "name": "Nidoranf",
+      "name": "Nidoran",
       "type": [
         "Poison"
       ],
       "height": 16,
-      "weight": 15.4
+      "weight": 15.4,
+      "imageName": "nidoranf"
     },
     {
       "dexNumber": 30,
@@ -281,7 +310,8 @@
         "Poison"
       ],
       "height": 31,
-      "weight": 44.1
+      "weight": 44.1,
+      "imageName": "nidorina"
     },
     {
       "dexNumber": 31,
@@ -291,16 +321,18 @@
         "Ground"
       ],
       "height": 51,
-      "weight": 132.3
+      "weight": 132.3,
+      "imageName": "nidoqueen"
     },
     {
       "dexNumber": 32,
-      "name": "Nidoranm",
+      "name": "Nidoran",
       "type": [
         "Poison"
       ],
       "height": 20,
-      "weight": 19.8
+      "weight": 19.8,
+      "imageName": "nidoranm"
     },
     {
       "dexNumber": 33,
@@ -309,7 +341,8 @@
         "Poison"
       ],
       "height": 36,
-      "weight": 43
+      "weight": 43,
+      "imageName": "nidorino"
     },
     {
       "dexNumber": 34,
@@ -319,7 +352,8 @@
         "Ground"
       ],
       "height": 55,
-      "weight": 136.7
+      "weight": 136.7,
+      "imageName": "nidoking"
     },
     {
       "dexNumber": 35,
@@ -328,7 +362,8 @@
         "Fairy"
       ],
       "height": 24,
-      "weight": 16.5
+      "weight": 16.5,
+      "imageName": "clefairy"
     },
     {
       "dexNumber": 36,
@@ -337,7 +372,8 @@
         "Fairy"
       ],
       "height": 51,
-      "weight": 88.2
+      "weight": 88.2,
+      "imageName": "clefable"
     },
     {
       "dexNumber": 37,
@@ -346,7 +382,8 @@
         "Fire"
       ],
       "height": 24,
-      "weight": 21.8
+      "weight": 21.8,
+      "imageName": "vulpix"
     },
     {
       "dexNumber": 38,
@@ -355,7 +392,8 @@
         "Fire"
       ],
       "height": 43,
-      "weight": 43.9
+      "weight": 43.9,
+      "imageName": "ninetales"
     },
     {
       "dexNumber": 39,
@@ -365,7 +403,8 @@
         "Fairy"
       ],
       "height": 20,
-      "weight": 12.1
+      "weight": 12.1,
+      "imageName": "jigglypuff"
     },
     {
       "dexNumber": 40,
@@ -375,7 +414,8 @@
         "Fairy"
       ],
       "height": 39,
-      "weight": 26.5
+      "weight": 26.5,
+      "imageName": "wigglytuff"
     },
     {
       "dexNumber": 41,
@@ -385,7 +425,8 @@
         "Flying"
       ],
       "height": 31,
-      "weight": 16.5
+      "weight": 16.5,
+      "imageName": "zubat"
     },
     {
       "dexNumber": 42,
@@ -395,7 +436,8 @@
         "Flying"
       ],
       "height": 63,
-      "weight": 121.3
+      "weight": 121.3,
+      "imageName": "golbat"
     },
     {
       "dexNumber": 43,
@@ -405,7 +447,8 @@
         "Poison"
       ],
       "height": 20,
-      "weight": 11.9
+      "weight": 11.9,
+      "imageName": "oddish"
     },
     {
       "dexNumber": 44,
@@ -415,7 +458,8 @@
         "Poison"
       ],
       "height": 31,
-      "weight": 19
+      "weight": 19,
+      "imageName": "gloom"
     },
     {
       "dexNumber": 45,
@@ -425,7 +469,8 @@
         "Poison"
       ],
       "height": 47,
-      "weight": 41
+      "weight": 41,
+      "imageName": "vileplume"
     },
     {
       "dexNumber": 46,
@@ -435,7 +480,8 @@
         "Grass"
       ],
       "height": 12,
-      "weight": 11.9
+      "weight": 11.9,
+      "imageName": "paras"
     },
     {
       "dexNumber": 47,
@@ -445,7 +491,8 @@
         "Grass"
       ],
       "height": 39,
-      "weight": 65
+      "weight": 65,
+      "imageName": "parasect"
     },
     {
       "dexNumber": 48,
@@ -455,7 +502,8 @@
         "Poison"
       ],
       "height": 39,
-      "weight": 66.1
+      "weight": 66.1,
+      "imageName": "venonat"
     },
     {
       "dexNumber": 49,
@@ -465,7 +513,8 @@
         "Poison"
       ],
       "height": 59,
-      "weight": 27.6
+      "weight": 27.6,
+      "imageName": "venomoth"
     },
     {
       "dexNumber": 50,
@@ -474,7 +523,8 @@
         "Ground"
       ],
       "height": 8,
-      "weight": 1.8
+      "weight": 1.8,
+      "imageName": "diglett"
     },
     {
       "dexNumber": 51,
@@ -483,7 +533,8 @@
         "Ground"
       ],
       "height": 28,
-      "weight": 73.4
+      "weight": 73.4,
+      "imageName": "dugtrio"
     },
     {
       "dexNumber": 52,
@@ -492,7 +543,8 @@
         "Normal"
       ],
       "height": 16,
-      "weight": 9.3
+      "weight": 9.3,
+      "imageName": "meowth"
     },
     {
       "dexNumber": 53,
@@ -501,7 +553,8 @@
         "Normal"
       ],
       "height": 39,
-      "weight": 70.5
+      "weight": 70.5,
+      "imageName": "persian"
     },
     {
       "dexNumber": 54,
@@ -510,7 +563,8 @@
         "Water"
       ],
       "height": 31,
-      "weight": 43.2
+      "weight": 43.2,
+      "imageName": "psyduck"
     },
     {
       "dexNumber": 55,
@@ -519,7 +573,8 @@
         "Water"
       ],
       "height": 67,
-      "weight": 168.9
+      "weight": 168.9,
+      "imageName": "golduck"
     },
     {
       "dexNumber": 56,
@@ -528,7 +583,8 @@
         "Fighting"
       ],
       "height": 20,
-      "weight": 61.7
+      "weight": 61.7,
+      "imageName": "mankey"
     },
     {
       "dexNumber": 57,
@@ -537,7 +593,8 @@
         "Fighting"
       ],
       "height": 39,
-      "weight": 70.5
+      "weight": 70.5,
+      "imageName": "primeape"
     },
     {
       "dexNumber": 58,
@@ -546,7 +603,8 @@
         "Fire"
       ],
       "height": 28,
-      "weight": 41.9
+      "weight": 41.9,
+      "imageName": "growlithe"
     },
     {
       "dexNumber": 59,
@@ -555,7 +613,8 @@
         "Fire"
       ],
       "height": 75,
-      "weight": 341.7
+      "weight": 341.7,
+      "imageName": "arcanine"
     },
     {
       "dexNumber": 60,
@@ -564,7 +623,8 @@
         "Water"
       ],
       "height": 24,
-      "weight": 27.3
+      "weight": 27.3,
+      "imageName": "poliwag"
     },
     {
       "dexNumber": 61,
@@ -573,7 +633,8 @@
         "Water"
       ],
       "height": 39,
-      "weight": 44.1
+      "weight": 44.1,
+      "imageName": "poliwhirl"
     },
     {
       "dexNumber": 62,
@@ -583,7 +644,8 @@
         "Fighting"
       ],
       "height": 51,
-      "weight": 119
+      "weight": 119,
+      "imageName": "poliwrath"
     },
     {
       "dexNumber": 63,
@@ -592,7 +654,8 @@
         "Psychic"
       ],
       "height": 35,
-      "weight": 43
+      "weight": 43,
+      "imageName": "abra"
     },
     {
       "dexNumber": 64,
@@ -601,7 +664,8 @@
         "Psychic"
       ],
       "height": 51,
-      "weight": 124.6
+      "weight": 124.6,
+      "imageName": "kadabra"
     },
     {
       "dexNumber": 65,
@@ -610,7 +674,8 @@
         "Psychic"
       ],
       "height": 59,
-      "weight": 105.8
+      "weight": 105.8,
+      "imageName": "alakazam"
     },
     {
       "dexNumber": 66,
@@ -619,7 +684,8 @@
         "Fighting"
       ],
       "height": 31,
-      "weight": 43
+      "weight": 43,
+      "imageName": "machop"
     },
     {
       "dexNumber": 67,
@@ -628,7 +694,8 @@
         "Fighting"
       ],
       "height": 59,
-      "weight": 155.4
+      "weight": 155.4,
+      "imageName": "machoke"
     },
     {
       "dexNumber": 68,
@@ -637,7 +704,8 @@
         "Fighting"
       ],
       "height": 63,
-      "weight": 286.6
+      "weight": 286.6,
+      "imageName": "machamp"
     },
     {
       "dexNumber": 69,
@@ -647,7 +715,8 @@
         "Poison"
       ],
       "height": 28,
-      "weight": 8.8
+      "weight": 8.8,
+      "imageName": "bellsprout"
     },
     {
       "dexNumber": 70,
@@ -657,7 +726,8 @@
         "Poison"
       ],
       "height": 39,
-      "weight": 14.1
+      "weight": 14.1,
+      "imageName": "weepinbell"
     },
     {
       "dexNumber": 71,
@@ -667,7 +737,8 @@
         "Poison"
       ],
       "height": 67,
-      "weight": 34.2
+      "weight": 34.2,
+      "imageName": "victreebel"
     },
     {
       "dexNumber": 72,
@@ -677,7 +748,8 @@
         "Poison"
       ],
       "height": 35,
-      "weight": 100.3
+      "weight": 100.3,
+      "imageName": "tentacool"
     },
     {
       "dexNumber": 73,
@@ -687,7 +759,8 @@
         "Poison"
       ],
       "height": 63,
-      "weight": 121.3
+      "weight": 121.3,
+      "imageName": "tentacruel"
     },
     {
       "dexNumber": 74,
@@ -697,7 +770,8 @@
         "Ground"
       ],
       "height": 16,
-      "weight": 44.1
+      "weight": 44.1,
+      "imageName": "geodude"
     },
     {
       "dexNumber": 75,
@@ -707,7 +781,8 @@
         "Ground"
       ],
       "height": 39,
-      "weight": 231.5
+      "weight": 231.5,
+      "imageName": "graveler"
     },
     {
       "dexNumber": 76,
@@ -717,7 +792,8 @@
         "Ground"
       ],
       "height": 55,
-      "weight": 661.4
+      "weight": 661.4,
+      "imageName": "golem"
     },
     {
       "dexNumber": 77,
@@ -726,7 +802,8 @@
         "Fire"
       ],
       "height": 39,
-      "weight": 66.1
+      "weight": 66.1,
+      "imageName": "ponyta"
     },
     {
       "dexNumber": 78,
@@ -735,7 +812,8 @@
         "Fire"
       ],
       "height": 67,
-      "weight": 209.4
+      "weight": 209.4,
+      "imageName": "rapidash"
     },
     {
       "dexNumber": 79,
@@ -745,7 +823,8 @@
         "Psychic"
       ],
       "height": 47,
-      "weight": 79.4
+      "weight": 79.4,
+      "imageName": "slowpoke"
     },
     {
       "dexNumber": 80,
@@ -755,7 +834,8 @@
         "Psychic"
       ],
       "height": 63,
-      "weight": 173.1
+      "weight": 173.1,
+      "imageName": "slowbro"
     },
     {
       "dexNumber": 81,
@@ -765,7 +845,8 @@
         "Steel"
       ],
       "height": 12,
-      "weight": 13.2
+      "weight": 13.2,
+      "imageName": "magnemite"
     },
     {
       "dexNumber": 82,
@@ -775,17 +856,19 @@
         "Steel"
       ],
       "height": 39,
-      "weight": 132.3
+      "weight": 132.3,
+      "imageName": "magneton"
     },
     {
       "dexNumber": 83,
-      "name": "Farfetchd",
+      "name": "Farfetch'd",
       "type": [
         "Normal",
         "Flying"
       ],
       "height": 31,
-      "weight": 33.1
+      "weight": 33.1,
+      "imageName": "farfetchd"
     },
     {
       "dexNumber": 84,
@@ -795,7 +878,8 @@
         "Flying"
       ],
       "height": 55,
-      "weight": 86.4
+      "weight": 86.4,
+      "imageName": "doduo"
     },
     {
       "dexNumber": 85,
@@ -805,7 +889,8 @@
         "Flying"
       ],
       "height": 71,
-      "weight": 187.8
+      "weight": 187.8,
+      "imageName": "dodrio"
     },
     {
       "dexNumber": 86,
@@ -814,7 +899,8 @@
         "Water"
       ],
       "height": 43,
-      "weight": 198.4
+      "weight": 198.4,
+      "imageName": "seel"
     },
     {
       "dexNumber": 87,
@@ -824,7 +910,8 @@
         "Ice"
       ],
       "height": 67,
-      "weight": 264.6
+      "weight": 264.6,
+      "imageName": "dewgong"
     },
     {
       "dexNumber": 88,
@@ -833,7 +920,8 @@
         "Poison"
       ],
       "height": 35,
-      "weight": 66.1
+      "weight": 66.1,
+      "imageName": "grimer"
     },
     {
       "dexNumber": 89,
@@ -842,7 +930,8 @@
         "Poison"
       ],
       "height": 47,
-      "weight": 66.1
+      "weight": 66.1,
+      "imageName": "muk"
     },
     {
       "dexNumber": 90,
@@ -851,7 +940,8 @@
         "Water"
       ],
       "height": 12,
-      "weight": 8.8
+      "weight": 8.8,
+      "imageName": "shellder"
     },
     {
       "dexNumber": 91,
@@ -861,7 +951,8 @@
         "Ice"
       ],
       "height": 59,
-      "weight": 292.1
+      "weight": 292.1,
+      "imageName": "cloyster"
     },
     {
       "dexNumber": 92,
@@ -871,7 +962,8 @@
         "Poison"
       ],
       "height": 51,
-      "weight": 0.2
+      "weight": 0.2,
+      "imageName": "gastly"
     },
     {
       "dexNumber": 93,
@@ -881,7 +973,8 @@
         "Poison"
       ],
       "height": 63,
-      "weight": 0.2
+      "weight": 0.2,
+      "imageName": "haunter"
     },
     {
       "dexNumber": 94,
@@ -891,7 +984,8 @@
         "Poison"
       ],
       "height": 59,
-      "weight": 89.3
+      "weight": 89.3,
+      "imageName": "gengar"
     },
     {
       "dexNumber": 95,
@@ -901,7 +995,8 @@
         "Ground"
       ],
       "height": 346,
-      "weight": 463
+      "weight": 463,
+      "imageName": "onix"
     },
     {
       "dexNumber": 96,
@@ -910,7 +1005,8 @@
         "Psychic"
       ],
       "height": 39,
-      "weight": 71.4
+      "weight": 71.4,
+      "imageName": "drowzee"
     },
     {
       "dexNumber": 97,
@@ -919,7 +1015,8 @@
         "Psychic"
       ],
       "height": 63,
-      "weight": 166.7
+      "weight": 166.7,
+      "imageName": "hypno"
     },
     {
       "dexNumber": 98,
@@ -928,7 +1025,8 @@
         "Water"
       ],
       "height": 16,
-      "weight": 14.3
+      "weight": 14.3,
+      "imageName": "krabby"
     },
     {
       "dexNumber": 99,
@@ -937,7 +1035,8 @@
         "Water"
       ],
       "height": 51,
-      "weight": 132.3
+      "weight": 132.3,
+      "imageName": "kingler"
     },
     {
       "dexNumber": 100,
@@ -946,7 +1045,8 @@
         "Electric"
       ],
       "height": 20,
-      "weight": 22.9
+      "weight": 22.9,
+      "imageName": "voltorb"
     },
     {
       "dexNumber": 101,
@@ -955,7 +1055,8 @@
         "Electric"
       ],
       "height": 47,
-      "weight": 146.8
+      "weight": 146.8,
+      "imageName": "electrode"
     },
     {
       "dexNumber": 102,
@@ -965,7 +1066,8 @@
         "Psychic"
       ],
       "height": 16,
-      "weight": 5.5
+      "weight": 5.5,
+      "imageName": "exeggcute"
     },
     {
       "dexNumber": 103,
@@ -975,7 +1077,8 @@
         "Psychic"
       ],
       "height": 79,
-      "weight": 264.6
+      "weight": 264.6,
+      "imageName": "exeggutor"
     },
     {
       "dexNumber": 104,
@@ -984,7 +1087,8 @@
         "Ground"
       ],
       "height": 16,
-      "weight": 14.3
+      "weight": 14.3,
+      "imageName": "cubone"
     },
     {
       "dexNumber": 105,
@@ -993,7 +1097,8 @@
         "Ground"
       ],
       "height": 39,
-      "weight": 99.2
+      "weight": 99.2,
+      "imageName": "marowak"
     },
     {
       "dexNumber": 106,
@@ -1002,7 +1107,8 @@
         "Fighting"
       ],
       "height": 59,
-      "weight": 109.8
+      "weight": 109.8,
+      "imageName": "hitmonlee"
     },
     {
       "dexNumber": 107,
@@ -1011,7 +1117,8 @@
         "Fighting"
       ],
       "height": 55,
-      "weight": 110.7
+      "weight": 110.7,
+      "imageName": "hitmonchan"
     },
     {
       "dexNumber": 108,
@@ -1020,7 +1127,8 @@
         "Normal"
       ],
       "height": 47,
-      "weight": 144.4
+      "weight": 144.4,
+      "imageName": "lickitung"
     },
     {
       "dexNumber": 109,
@@ -1029,7 +1137,8 @@
         "Poison"
       ],
       "height": 24,
-      "weight": 2.2
+      "weight": 2.2,
+      "imageName": "koffing"
     },
     {
       "dexNumber": 110,
@@ -1038,7 +1147,8 @@
         "Poison"
       ],
       "height": 47,
-      "weight": 20.9
+      "weight": 20.9,
+      "imageName": "weezing"
     },
     {
       "dexNumber": 111,
@@ -1048,7 +1158,8 @@
         "Rock"
       ],
       "height": 39,
-      "weight": 253.5
+      "weight": 253.5,
+      "imageName": "rhyhorn"
     },
     {
       "dexNumber": 112,
@@ -1058,7 +1169,8 @@
         "Rock"
       ],
       "height": 75,
-      "weight": 264.6
+      "weight": 264.6,
+      "imageName": "rhydon"
     },
     {
       "dexNumber": 113,
@@ -1067,7 +1179,8 @@
         "Normal"
       ],
       "height": 43,
-      "weight": 76.3
+      "weight": 76.3,
+      "imageName": "chansey"
     },
     {
       "dexNumber": 114,
@@ -1076,7 +1189,8 @@
         "Grass"
       ],
       "height": 39,
-      "weight": 77.2
+      "weight": 77.2,
+      "imageName": "tangela"
     },
     {
       "dexNumber": 115,
@@ -1085,7 +1199,8 @@
         "Normal"
       ],
       "height": 87,
-      "weight": 176.4
+      "weight": 176.4,
+      "imageName": "kangaskhan"
     },
     {
       "dexNumber": 116,
@@ -1094,7 +1209,8 @@
         "Water"
       ],
       "height": 16,
-      "weight": 17.6
+      "weight": 17.6,
+      "imageName": "horsea"
     },
     {
       "dexNumber": 117,
@@ -1103,7 +1219,8 @@
         "Water"
       ],
       "height": 47,
-      "weight": 55.1
+      "weight": 55.1,
+      "imageName": "seadra"
     },
     {
       "dexNumber": 118,
@@ -1112,7 +1229,8 @@
         "Water"
       ],
       "height": 24,
-      "weight": 33.1
+      "weight": 33.1,
+      "imageName": "goldeen"
     },
     {
       "dexNumber": 119,
@@ -1121,7 +1239,8 @@
         "Water"
       ],
       "height": 51,
-      "weight": 86
+      "weight": 86,
+      "imageName": "seaking"
     },
     {
       "dexNumber": 120,
@@ -1130,7 +1249,8 @@
         "Water"
       ],
       "height": 31,
-      "weight": 76.1
+      "weight": 76.1,
+      "imageName": "staryu"
     },
     {
       "dexNumber": 121,
@@ -1140,17 +1260,19 @@
         "Psychic"
       ],
       "height": 43,
-      "weight": 176.4
+      "weight": 176.4,
+      "imageName": "starmie"
     },
     {
       "dexNumber": 122,
-      "name": "Mr-Mime",
+      "name": "Mr. Mime",
       "type": [
         "Psychic",
         "Fairy"
       ],
       "height": 51,
-      "weight": 120.1
+      "weight": 120.1,
+      "imageName": "mr-mime"
     },
     {
       "dexNumber": 123,
@@ -1160,7 +1282,8 @@
         "Flying"
       ],
       "height": 59,
-      "weight": 123.5
+      "weight": 123.5,
+      "imageName": "scyther"
     },
     {
       "dexNumber": 124,
@@ -1170,7 +1293,8 @@
         "Psychic"
       ],
       "height": 55,
-      "weight": 89.5
+      "weight": 89.5,
+      "imageName": "jynx"
     },
     {
       "dexNumber": 125,
@@ -1179,7 +1303,8 @@
         "Electric"
       ],
       "height": 43,
-      "weight": 66.1
+      "weight": 66.1,
+      "imageName": "electabuzz"
     },
     {
       "dexNumber": 126,
@@ -1188,7 +1313,8 @@
         "Fire"
       ],
       "height": 51,
-      "weight": 98.1
+      "weight": 98.1,
+      "imageName": "magmar"
     },
     {
       "dexNumber": 127,
@@ -1197,7 +1323,8 @@
         "Bug"
       ],
       "height": 59,
-      "weight": 121.3
+      "weight": 121.3,
+      "imageName": "pinsir"
     },
     {
       "dexNumber": 128,
@@ -1206,7 +1333,8 @@
         "Normal"
       ],
       "height": 55,
-      "weight": 194.9
+      "weight": 194.9,
+      "imageName": "tauros"
     },
     {
       "dexNumber": 129,
@@ -1215,7 +1343,8 @@
         "Water"
       ],
       "height": 35,
-      "weight": 22
+      "weight": 22,
+      "imageName": "magikarp"
     },
     {
       "dexNumber": 130,
@@ -1225,7 +1354,8 @@
         "Flying"
       ],
       "height": 256,
-      "weight": 518.1
+      "weight": 518.1,
+      "imageName": "gyarados"
     },
     {
       "dexNumber": 131,
@@ -1235,7 +1365,8 @@
         "Ice"
       ],
       "height": 98,
-      "weight": 485
+      "weight": 485,
+      "imageName": "lapras"
     },
     {
       "dexNumber": 132,
@@ -1244,7 +1375,8 @@
         "Normal"
       ],
       "height": 12,
-      "weight": 8.8
+      "weight": 8.8,
+      "imageName": "ditto"
     },
     {
       "dexNumber": 133,
@@ -1253,7 +1385,8 @@
         "Normal"
       ],
       "height": 12,
-      "weight": 14.3
+      "weight": 14.3,
+      "imageName": "eevee"
     },
     {
       "dexNumber": 134,
@@ -1262,7 +1395,8 @@
         "Water"
       ],
       "height": 39,
-      "weight": 63.9
+      "weight": 63.9,
+      "imageName": "vaporeon"
     },
     {
       "dexNumber": 135,
@@ -1271,7 +1405,8 @@
         "Electric"
       ],
       "height": 31,
-      "weight": 54
+      "weight": 54,
+      "imageName": "jolteon"
     },
     {
       "dexNumber": 136,
@@ -1280,7 +1415,8 @@
         "Fire"
       ],
       "height": 35,
-      "weight": 55.1
+      "weight": 55.1,
+      "imageName": "flareon"
     },
     {
       "dexNumber": 137,
@@ -1289,7 +1425,8 @@
         "Normal"
       ],
       "height": 31,
-      "weight": 80.5
+      "weight": 80.5,
+      "imageName": "porygon"
     },
     {
       "dexNumber": 138,
@@ -1299,7 +1436,8 @@
         "Water"
       ],
       "height": 16,
-      "weight": 16.5
+      "weight": 16.5,
+      "imageName": "omanyte"
     },
     {
       "dexNumber": 139,
@@ -1309,7 +1447,8 @@
         "Water"
       ],
       "height": 39,
-      "weight": 77.2
+      "weight": 77.2,
+      "imageName": "omastar"
     },
     {
       "dexNumber": 140,
@@ -1319,7 +1458,8 @@
         "Water"
       ],
       "height": 20,
-      "weight": 25.4
+      "weight": 25.4,
+      "imageName": "kabuto"
     },
     {
       "dexNumber": 141,
@@ -1329,7 +1469,8 @@
         "Water"
       ],
       "height": 51,
-      "weight": 89.3
+      "weight": 89.3,
+      "imageName": "kabutops"
     },
     {
       "dexNumber": 142,
@@ -1339,7 +1480,8 @@
         "Flying"
       ],
       "height": 71,
-      "weight": 130.1
+      "weight": 130.1,
+      "imageName": "aerodactyl"
     },
     {
       "dexNumber": 143,
@@ -1348,7 +1490,8 @@
         "Normal"
       ],
       "height": 83,
-      "weight": 1014.1
+      "weight": 1014.1,
+      "imageName": "snorlax"
     },
     {
       "dexNumber": 144,
@@ -1358,7 +1501,8 @@
         "Flying"
       ],
       "height": 67,
-      "weight": 122.1
+      "weight": 122.1,
+      "imageName": "articuno"
     },
     {
       "dexNumber": 145,
@@ -1368,7 +1512,8 @@
         "Flying"
       ],
       "height": 63,
-      "weight": 116
+      "weight": 116,
+      "imageName": "zapdos"
     },
     {
       "dexNumber": 146,
@@ -1378,7 +1523,8 @@
         "Flying"
       ],
       "height": 79,
-      "weight": 132.3
+      "weight": 132.3,
+      "imageName": "moltres"
     },
     {
       "dexNumber": 147,
@@ -1387,7 +1533,8 @@
         "Dragon"
       ],
       "height": 71,
-      "weight": 7.3
+      "weight": 7.3,
+      "imageName": "dratini"
     },
     {
       "dexNumber": 148,
@@ -1396,7 +1543,8 @@
         "Dragon"
       ],
       "height": 157,
-      "weight": 36.4
+      "weight": 36.4,
+      "imageName": "dragonair"
     },
     {
       "dexNumber": 149,
@@ -1406,7 +1554,8 @@
         "Flying"
       ],
       "height": 87,
-      "weight": 463
+      "weight": 463,
+      "imageName": "dragonite"
     },
     {
       "dexNumber": 150,
@@ -1415,7 +1564,8 @@
         "Psychic"
       ],
       "height": 79,
-      "weight": 269
+      "weight": 269,
+      "imageName": "mewtwo"
     },
     {
       "dexNumber": 151,
@@ -1424,7 +1574,8 @@
         "Psychic"
       ],
       "height": 16,
-      "weight": 8.8
+      "weight": 8.8,
+      "imageName": "mew"
     }
   ]
 }

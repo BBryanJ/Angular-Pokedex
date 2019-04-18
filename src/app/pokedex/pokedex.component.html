@@ -12,7 +12,7 @@
     <td>
       <img
         src="http://www.pokestadium.com/assets/img/sprites/misc/icons/{{
-          pokemon.name | lowercase
+          pokemon.imageName | lowercase
         }}.png"
         alt="{{ pokemon.name }} sprite"
       />
@@ -29,6 +29,6 @@
       <td colspan="2">{{ pokemon.type[0] }}</td>
     </ng-template>
     <td>{{ pokemon.height }}</td>
-    <td>{{ pokemon.weight }}</td>
+    <td>{{ pokemon.weight | number: '.1' }}</td>
   </tr>
 </table>
